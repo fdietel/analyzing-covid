@@ -1,2 +1,2 @@
 # analyzing-covid
-analyzing some public COVID-19 data
+analyzing the COVID-19 pandemic in Berlin with public data (LAGeSo)
